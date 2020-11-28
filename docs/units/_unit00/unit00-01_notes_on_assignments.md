@@ -53,7 +53,7 @@ ln -s /media/memory/interesting/edu edu
 Now one can access the edu folder on both the windows and the Linux example via the home directory, i.e. ~/edu/. All problems solved.
 
 
-While this will work on all of your private computers, it will not work on the ones in the University's computer lab. To handle that as smooth as possible, you can use the functionality of the envimaR package which allows to set defaults for all computers but one special type which is handled differently. See [the example on setting up a working environment]({{ site.baseurl }}{% link _unit01/unit01-05_environment_setup.md %}).
+While this will work on all of your private computers, it will not work on the ones in the University's computer lab. To handle that as smooth as possible, you can use the functionality of the envimaR package which allows to set defaults for all computers but one special type which is handled differently. See [the example on setting up a working environment](https://geomoer.github.io/moer-mpg-gisfe-basics/unit00/unit00-10_environment_setup.html).
 {: .notice--info}
 
 ### Mandatory folder structure
