@@ -1,12 +1,18 @@
 ---
-title: "Spotlight: Scientific Article"
+title: "Science - Asking Questions Giving Answers"
 ---
-Scientific articles are one way to communicate your science to peers. This includes not only your scientific results, but also the question that drove you in the first place and the methods and workflow you used to come to your conclusions.
+Asking questions and finding answers is the basis of scientific work. This includes an extensive repertoire of procedures and techniques.  With regard to geoinformation science, it is of central importance to be able to abstract the real world in a comprehensible way, to depict it in corresponding data models and to derive reliable information from it.
+
 
 <!--more-->
 
 ## A guide through your scientific work
 Scientific communication has many facets and ranges from book our journal publications to oral presentations or from posters to videos and web blogs. Each of these communication practices has its own character and social interaction potential. Hence, a scientific article is a unique format which should be handled as uniquely as any other scientific communication.
+
+
+## Writing it Down
+
+Scientific articles are one way to communicate your science to peers. This includes not only your scientific results, but also the question that drove you in the first place and the methods and workflow you used to come to your conclusions.
 
 The most important thing when designing an article is to keep in mind that it will not be part of a public reading but must be stand for itself and comprehensible for your peers.
 {: .notice--info} 
@@ -19,3 +25,8 @@ The following references will provide a good basis for making up your mind about
 * And if you prefer a complete book, this is one example of many: Mack (2018) How to Write a Good Scientific Paper. SPIE. [https://doi.org/10.1117/3.2317707](https://www.spiedigitallibrary.org/ebooks/PM/How-to-Write-a-Good-Scientific-Paper/eISBN-9781510619142/10.1117/3.2317707){:target="_blank"}
 
 Use the references and examples as means in finding your own way to write a good scientific article. The tips are no rules; they are guidelines you could build upon. Please, keep your individuality and your ability to learn from previous experience.
+
+If you like it a bit less heavy weight the following links may be helpful
+
+* [Academic Reading](https://writingcenter.gmu.edu/guides/strategies-for-reading-academic-articles)
+* [Academic Writing](https://libraries.indiana.edu/sites/default/files/Develop_a_Research_Question.pdf)

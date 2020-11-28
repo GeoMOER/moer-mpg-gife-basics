@@ -1,28 +1,17 @@
 ---
-title: Asking Questions - Finding Answers
+title: Data and Software
 toc: true
 toc_label: In this worksheet
 ---
+Please use the following resources for retrieving the required data and software.
 
-
-Asking questions and finding answers is the basis of scientific work. This includes an extensive repertoire of procedures and techniques.  With regard to geoinformation science, it is of central importance to be able to abstract the real world in a comprehensible way, to depict it in corresponding data models and to derive reliable information from it.
 
 <!--more-->
 
 
-## Things you need 
+## Data set for training purposes
 
-
-### Readings
-* [Academic Reading](https://writingcenter.gmu.edu/guides/strategies-for-reading-academic-articles)
-* [Academic Writing](https://libraries.indiana.edu/sites/default/files/Develop_a_Research_Question.pdf)
-
-* [Why geographic data science is not a science](https://onlinelibrary.wiley.com/doi/full/10.1111/gec3.12537)
-
-
-### Data set for training purposes
-
-* [Download](http://gofile.me/3Z8AJ/c6m5CfvWZ){:target="_blank"} data from the working group data server.
+* [Course Data Server](http://gofile.me/3Z8AJ/c6m5CfvWZ){:target="_blank"} data from the working group data server.
 
 ### Getting familiar with the software tools
 
@@ -36,11 +25,7 @@ GIS — most commercial or open source GIS systems will be fine. Actually in the
 Regarding installation, for Ubuntu Linux, the [Ubuntu GIS package](https://wiki.ubuntu.com/UbuntuGIS) is a good choice. For Windows, we strongly recommend installing everything via the [OSGeo4W](http://trac.osgeo.org/osgeo4w/) environment and not the standalone QGIS installation tool.
 
 
-## Things to take home from this session
-At the end of this session you should be able to:
 
-
-* have an rough idea about software tools that may be helpful
 
 
 

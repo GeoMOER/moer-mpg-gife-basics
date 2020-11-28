@@ -5,6 +5,7 @@ toc_label: In this example
 ---
 
 We offer weekly input with a new course unit. Depending on the topic, we start this with live streaming, a web conference, videos, texts or other materials. After the input, the exercises are presented, which should be worked on to successfully complete the project. Open questions can be asked at any time during the course or via email. All questions will be discussed in a screencast or online (FAQ). 
+<!--more-->
 
 ## Web-based learning environment
 
@@ -34,9 +35,6 @@ This website is designed for one-way communication and provision of materials fr
 
 
 ### Direct contact
-You can reach me under the e-mail *reudenbach@geo.uni-marburg.de* please use the subject *[GIFEMSC]*. Conversely, we expect to reach you via your official student e-mail and ask you to check this regularly, at least once in the morning and once in the evening.
+You can reach me under the e-mail *reudenbach@geo.uni-marburg.de*. Please integrate the keyword **GISFE** into the subject line  . Conversely, I expect to reach you via your official student e-mail and ask you to check this regularly, at least once in the morning and once in the evening.
 
 
-
-
-Translated with www.DeepL.com/Translator (free version)
