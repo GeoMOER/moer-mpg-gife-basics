@@ -104,12 +104,6 @@ collections:
   unit02:
     output: true
     permalink: /:collection/:title.html
-  unit03:
-    output: true
-    permalink: /:collection/:title.html
-  unit04:
-    output: true
-    permalink: /:collection/:title.html
   unit05:
     output: true
     permalink: /:collection/:title.html
@@ -127,7 +121,7 @@ defaults:
       layout: single
       sidebar:
         nav: "units" 
-  # unit01
+  # unit00
   - scope:
       path: ""
       type: unit00
@@ -139,7 +133,6 @@ defaults:
         nav: "units" 
       toc: true
       toc_label: On this page      
-        
   # unit01
   - scope:
       path: ""
@@ -152,36 +145,6 @@ defaults:
         nav: "units" 
       toc: true
       toc_label: On this page      
-  # unit02
-  - scope:
-      path: ""
-      type: unit02
-    values:
-      category: "Spatial Anaysis Concepts"
-      tags: "Unit|02"
-      layout: single
-      sidebar:
-        nav: "units" 
-  # unit03
-  - scope:
-      path: ""
-      type: unit03
-    values:
-      category: "Project GIS: Forest: Trees, Structure and Competition based on LiDAR"
-      tags: "Unit|03"
-      layout: single
-      sidebar:
-        nav: "units" 
-  # unit04
-  - scope:
-      path: ""
-      type: unit04
-    values:
-      category: "Project RS: Classifying Tree Species based on RGB Imgery"
-      tags: "Unit|04"
-      layout: single
-      sidebar:
-        nav: "units" 
   # unit05
   - scope:
       path: ""
