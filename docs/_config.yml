@@ -44,31 +44,10 @@ author:
   avatar           : "/assets/images/creudenbach.jpg"
   bio              : "Marburg University"
   location         : "Marburg, DE"
-  email            : "reudenbach@geo.uni-marburg.de"
-  uri              : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/dr-christoph-reudenbauch"
-  home             : "https://gis-ma.org"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           : "https://www.flickr.com/environmentalinformatics-marburg/"
-  facebook         : "https://www.facebook.com/GeographieMarburg/"
-  foursquare       :
+  email            : "reudenbach@uni-marburg.de"
+  home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/dr-christoph-reudenbauch"
   github           : "GeoMOER"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        : 
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : "https://twitter.com/creuden"
-  vine             :
-  weibo            :
-  xing             :
+  twitter          : "geographie_umr"
   youtube          : "https://www.youtube.com/channel/UCGiwSv5KYjsNXl6-nZq0SDA"
 
 ##### Site configuration ######################################################
