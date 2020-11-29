@@ -40,12 +40,12 @@ twitter:
 
 ##### Lecturer settings #######################################################
 author:
-  name             : "Christoph Reudenbach"
+  name             : "Chris Reudenbach"
   avatar           : "/assets/images/creudenbach.jpg"
   bio              : "Marburg University"
   location         : "Marburg, DE"
   email            : "reudenbach@geo.uni-marburg.de"
-  uri              : "https://www.uni-marburg.de/fb19/personal/mitarbeiter/reudenbachc/index.html"
+  uri              : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/dr-christoph-reudenbauch"
   home             : "https://gis-ma.org"
   bitbucket        :
   codepen          :
@@ -70,7 +70,6 @@ author:
   weibo            :
   xing             :
   youtube          : "https://www.youtube.com/channel/UCGiwSv5KYjsNXl6-nZq0SDA"
-
 
 ##### Site configuration ######################################################
 title_separator: "|"

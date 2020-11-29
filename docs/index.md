@@ -52,3 +52,11 @@ The graded course certificate will be based on a portfolio hosted as a repositor
 
 # Instructor
 {% include author-profile.html %}
+
+# Authors
+
+
+{% for author in site.data.authors %} 
+  {% include author-profile.html %}
+ <br /> 
+{% endfor %}
