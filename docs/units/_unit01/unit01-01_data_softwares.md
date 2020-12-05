@@ -24,7 +24,7 @@ GIS — most commercial or open source GIS systems will be fine. Actually in the
 
 Regarding installation, for Ubuntu Linux, the [Ubuntu GIS package](https://wiki.ubuntu.com/UbuntuGIS) is a good choice. For Windows, we strongly recommend installing everything via the [OSGeo4W](http://trac.osgeo.org/osgeo4w/) environment and not the standalone QGIS installation tool. 
 
-On the link2GI github site you will find a comprehensive [installation guide](https://r-spatial.github.io/link2GI/articles/installation_guide_for_link2GI_related_software).
+On the link2GI github site you will find a comprehensive [installation guide](https://r-spatial.github.io/link2GI/articles/link2GI6.html).
 {: .notice--info} 
 
 
