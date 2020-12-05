@@ -22,12 +22,17 @@ GIS — most commercial or open source GIS systems will be fine. Actually in the
 * [QGIS](HTTP://www.qgis.org/de/docs/user_manual/index.html#qgis-manual-index-reference) has become one of the most promising and most integrative open source GIS systems over the last years. Through the processing plugin, it additionally integrates modules from the other leading free GIS solutions like [GRASS](http://grass.osgeo.org/documentation/), [SAGA](http://www.saga-gis.org/en/about/references.html)
 [Orfeo Toolbox](http://orfeo-toolbox.org/otb/) which is specifically designed for remote sensing operations.
 
-Regarding installation, for Ubuntu Linux, the [Ubuntu GIS package](https://wiki.ubuntu.com/UbuntuGIS) is a good choice. For Windows, we strongly recommend installing everything via the [OSGeo4W](http://trac.osgeo.org/osgeo4w/) environment and not the standalone QGIS installation tool.
+Regarding installation, for Ubuntu Linux, the [Ubuntu GIS package](https://wiki.ubuntu.com/UbuntuGIS) is a good choice. For Windows, we strongly recommend installing everything via the [OSGeo4W](http://trac.osgeo.org/osgeo4w/) environment and not the standalone QGIS installation tool. 
+
+On the link2GI github site you will find a comprehensive [installation guide](https://r-spatial.github.io/link2GI/articles/installation_guide_for_link2GI_related_software).
+{: .notice--info} 
+
+
 
 
 We will use the statistical scripting language [R](https://cran.r-project.org/) and we highly recommend the  [Rstudio](https://rstudio.com/) integrated developing environment. 
 
-Please follow the instructions according to your operationg system.
+Please follow the instructions according to your operating system.
 
 
 
