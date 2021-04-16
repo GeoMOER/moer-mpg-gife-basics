@@ -9,6 +9,7 @@ header:
   caption: 'Photo credit: [**tommy pixel Pixabay**](https://pixabay.com/de/users/fudowakira0-762613/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4987155)'
   cta_label: Go to course units
   cta_url: "/units.html"
+  cta_url: "/downloads.html"
 excerpt: Basic Course Information for GI & RS.
 feature_row_intro:
 - excerpt: Master level course in [Physical Geography](https://www.uni-marburg.de/fb19/studium/studiengaenge/msc-phygeo) at Marburg University
