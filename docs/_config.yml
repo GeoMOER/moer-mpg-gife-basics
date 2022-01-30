@@ -23,13 +23,13 @@
 
 
 # Serve on GitHub
-url: https://geomoer.github.io/
-baseurl: "/moer-mpg-rsgi-basics/"
+url: https://geomoc.github.io/
+baseurl: "/gmoc-mpg-rsgi-basics/"
 
 ##### Title ###################################################################
-title: Lab of Environmental Informatics
-name: &name "Lab of Environmental Informatics" # &name is a YAML anchor which can be *referenced later
-email: reudenbach@geo.uni-marburg.de
+title: GISMA ressources 
+name: &name "GISMA ressources" # &name is a YAML anchor which can be *referenced later
+email: reudenbach@uni-marburg.de
 description: >- # this means to ignore newlines until next item
   course course-materials geography remote-sensing marburg-open-educational-resource 
   physical-geography environmental-science nature-conservation r
@@ -46,7 +46,7 @@ author:
   location         : "Marburg, DE"
   email            : "reudenbach@uni-marburg.de"
   home             : "https://www.uni-marburg.de/de/fb19/fachbereich/staff/dr-christoph-reudenbauch"
-  github           : "GeoMOER"
+  github           : "geoMOC"
   twitter          : "geographie_umr"
   youtube          : "https://www.youtube.com/channel/UCGiwSv5KYjsNXl6-nZq0SDA"
 
@@ -57,7 +57,7 @@ excerpt_separator: <!--more-->
 # Build settings
 markdown: kramdown
 # theme: minima
-remote_theme: "GeoMOER/moer-jekyll-theme"
+remote_theme: "https://github.com/gisma-courses/moer-jekyll-theme"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 auto_ids: true
 

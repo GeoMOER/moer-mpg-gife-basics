@@ -41,7 +41,7 @@ At the end of this course you should be able
 
 # Preparation and prerequisites
 
-The courses assumes basic knowledge and skills in R Remote Sensing and GIS. Due to be linked  to each other you may obtain the required R, Remote Sensing and GIS skills by the parallel courses [Data Analysis](https://geomoer.github.io/moer-mpg-data-analysis/){:target="_blank"}, [Geo Information Systems](https://geomoer.github.io/moer-mpg-gis/){:target="_blank"} and [Remote Sensing]( geomoer.github.io/moer-mpg-remote-sensing/){:target="_blank"}. 
+The courses assumes basic knowledge and skills in R Remote Sensing and GIS. 
 
 It is intended as a blended learning module in our study program although the provided introductions, explanations and examples might be useful for self-study, too. Data and examples in this course focus on Marburg Open Forest - the open research and learning forest of Marburg University - and are related to the LOEWE Priority Programm [Nature 4.0](https://www.uni-marburg.de/de/fb19/natur40){:target="_blank"}.
 

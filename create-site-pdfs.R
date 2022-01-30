@@ -1,4 +1,4 @@
-# pandoc https://geomoer.github.io/moer-bsc-systemdynamik/assignments/unit00-02_assignments.html -f markdown-raw_tex -V colorlinks -V urlcolor=NavyBlue -V toccolor=Reds -f html-native_divs -o /home/creu/edu/courses/moer/moer-bsc-systemdynamik/docs/assets/pdf/unit00-02_assignments.pdf --pdf-engine=pdflatex
+# pandoc https://geomoc.github.io/gmoc-bsc-systemdynamik/assignments/unit00-02_assignments.html -f markdown-raw_tex -V colorlinks -V urlcolor=NavyBlue -V toccolor=Reds -f html-native_divs -o /home/creu/edu/courses/moer/moer-bsc-systemdynamik/docs/assets/pdf/unit00-02_assignments.pdf --pdf-engine=pdflatex
 # wkhtmltopdf  --page-size A1 --footer-left [webpage]  --footer-font-size 8 --footer-line --header-left [title] --header-line --margin-top 30 --margin-left 25 --margin-right 25 --margin-bottom 15  https://geomoer.github.io/moer-bsc-systemdynamik/assignments/unit00-02_assignments.html  /home/creu/edu/courses/moer/moer-bsc-systemdynamik/docs/assets/pdf/unit00-02_assignments.pdf
 zip = TRUE
 wkhtml = TRUE
@@ -9,7 +9,7 @@ files = list.files(dirname(rstudioapi::getActiveDocumentContext()$path),
                    recursive = TRUE, full.names = TRUE)
 
 # strip the repo name
-repo = strsplit(strsplit(files[[1]],"courses/moer")[[1]][2],"/")[[1]][2]
+repo = strsplit(strsplit(files[[1]],"courses/gmoc")[[1]][2],"/")[[1]][2]
 
 # strip the filename
 md_files = xfun::sans_ext(basename(files[grep("/units/", files)]))
@@ -30,7 +30,7 @@ if (local){
   url = paste0("http://127.0.0.1:4000/",repo,"/")
 } else {
   # create local url
-  url = paste0("https://geomoer.github.io/",repo,"/")
+  url = paste0("https://geomoc.github.io/",repo,"/")
 }
 
 if (!wkhtml){
