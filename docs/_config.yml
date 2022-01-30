@@ -27,8 +27,9 @@ url: https://geomoc.github.io/
 baseurl: "/gmoc-mpg-rsgi-basics/"
 
 ##### Title ###################################################################
-title: GISMA ressources 
-name: &name "GISMA ressources" # &name is a YAML anchor which can be *referenced later
+title: GISMA course resources
+name: &name "GISMA course resources" # &name is a YAML anchor which can be *referenced later
+
 email: reudenbach@uni-marburg.de
 description: >- # this means to ignore newlines until next item
   course course-materials geography remote-sensing marburg-open-educational-resource 
