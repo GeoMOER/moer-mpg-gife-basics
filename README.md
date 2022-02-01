@@ -1,7 +1,7 @@
 This course is brought to you as part of the [Open Educational Resources](https://oer.uni-marburg.de) initiative of [Marburg University, Germany](https://www.uni-marburg.de/de) at the [Department of Geography](https://www.uni-marburg.de/fb19).
 
 
-[Course Release on Github](https://geomoc.github.io/gmoc-mpg-gis/)
+[Course Release on Github](https://geoMOER.github.io/moer-mpg-gis/)
 
 The responsibility for the content rests with the instructors. Statements, opinions and/or conclusions are the ones from the instructors and do not necessarily reflect the opinion of the representatives of Marburg University.  
 
